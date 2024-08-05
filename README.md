@@ -1,4 +1,4 @@
-# Telegran_bot
+# Telegram_bot
 The Telegram Chatbot with GPT-3.5 Turbo is an intelligent conversational agent designed to interact with users on the popular messaging platform Telegram. Leveraging the cutting-edge capabilities of OpenAI's GPT-3.5 Turbo model, this bot can engage users in natural and meaningful conversations, providing responses that are contextually relevant and human-like.
 Prerequisites
 
